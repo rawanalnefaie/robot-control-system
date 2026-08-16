@@ -52,14 +52,17 @@ When a button is pressed, the command is sent to the PHP server and stored in a 
 
 ### Left
 
-<img width="1920" height="962" alt="left" src="https://github.com/user-attachments/assets/248dcaaf-9c64-4c24-aba6-fbb4f9597c6b" />
+<img width="1888" height="734" alt="left" src="https://github.com/user-attachments/assets/a6d03480-4eda-495c-a5bd-ce4e4a56b50a" />
+
 
 
 ### Right
 
-<img width="1920" height="967" alt="right" src="https://github.com/user-attachments/assets/013b826c-746f-4cf6-8555-1111a96cab89" />
+<img width="1904" height="737" alt="right" src="https://github.com/user-attachments/assets/5e407f91-0d1d-4e6f-bfe5-003c75026730" />
+
 
 
 ### Stop
-<img width="1920" height="955" alt="stop" src="https://github.com/user-attachments/assets/7922cb88-d9ff-49f9-989f-96341d78b634" />
+<img width="1920" height="722" alt="stop" src="https://github.com/user-attachments/assets/af3224fb-4892-4ca9-ae99-bb70870d4c5a" />
+
 
